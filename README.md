@@ -45,11 +45,11 @@ Most of the time I work with **AWS (Amazon Web Services)**, daily using resource
 
 ### Let's connect!
 I'm always eager to connect with professionals and discuss all things Data Engineering! Feel free to reach out:
-- [LinkedIn](https://www.linkedin.com/in/gabrielbbello/)
+- [LinkedIn](https://www.linkedin.com/in/gabriel-brito-bello/)
 - [GitHub](https://github.com/gabrielbbello/)
 
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=gabrielbbello&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/gabrielbbello/) [![GitHub followers](https://img.shields.io/github/followers/gabrielbbello.svg?label=Follow%20@gabrielbbello&style=social)](https://github.com/gabrielbbello/)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=gabriel-brito-bello&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/gabriel-brito-bello/) [![GitHub followers](https://img.shields.io/github/followers/gabrielbbello.svg?label=Follow%20@gabrielbbello&style=social)](https://github.com/gabrielbbello/)
 
 ---
 
-📬 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/gabrielbbello/).
+📬 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/gabriel-brito-bello/).
