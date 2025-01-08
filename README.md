@@ -41,7 +41,9 @@ Most of the time I work with **AWS (Amazon Web Services)**, daily using resource
 
 ### Projects
 
-🚧 Exciting projects are on their way! I’ll share impactful case studies and real-world applications soon.
+1. [A data engineering platform project with AWS, Terraform, Airbyte, Apache Spark and Airflow to take raw data and refine it for availability in the gold layer of the data lake](https://github.com/gabrielbbello/data-engineering-platform-aws-terraform-airbyte-spark-airflow)
+
+2. 🚧 Coming soon!
 
 ### Let's connect!
 I'm always eager to connect with professionals and discuss all things Data Engineering! Feel free to reach out:
