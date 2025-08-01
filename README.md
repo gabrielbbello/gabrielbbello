@@ -3,7 +3,7 @@
 
 It's great to have you here! I'm Gabriel Bello, a passionate **Data Engineer** with **extensive international experience**. After starting my career as a Software Engineer and Data Engineer at the **world's largest** renewable energy producer, I had the incredible opportunity to work in Europe—spending 12 months on-site in **France** and 6 months remotely for a company in **Sweden**, working as a **Data Engineer**.
 
-Currently, I am part of the team at @Cognitivo.ai, the **largest data platform in Brazil**, where I help drive global impact through cutting-edge, data-driven solutions. My work involves building scalable pipelines, leveraging modern data technologies, and delivering transformative insights across industries.
+Currently, I am part of the team at @Stone, **one of the most valuable Brazilian companies.**, where I help drive global impact through cutting-edge, data-driven solutions. My work involves building scalable pipelines, leveraging modern data technologies, and delivering transformative insights.
 
 ### Core data engineering stack
 Most of the time I work with **AWS (Amazon Web Services)**, daily using resources such as: S3, EC2, Glue, RDS, DynamoDB, API Gateway, EventBridge, Lambda, DMS, ECR, ECS, EKS, Athena, and more. The entire infrastructure is provisioned using IaC with *Terraform* whenever possible, in addition to using the **Modern Data Stack (Airbyte for data ingestion, DBT for data transformation, Airflow for pipeline orchestration)** to achieve impressive project results.
